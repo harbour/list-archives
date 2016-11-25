@@ -1,0 +1,690 @@
+From harbour@matrixlist.com  Sat Sep  1 01:53:02 2001
+From: harbour@matrixlist.com (Antonio Linares)
+Date: Sat Sep  1 00:53:02 2001
+Subject: [Harbour] $id question
+In-Reply-To: <200108311428.000001D4@Internet>
+Message-ID: <000f01c132a1$77d425c0$0f2aa8c0@first>
+
+Sorry if I have made this question
+so many times:
+
+How to add the $id on the top of a file ?
+
+Thanks!
+
+Antonio
+
+
+From harbour@matrixlist.com  Sat Sep  1 03:38:02 2001
+From: harbour@matrixlist.com (Antonio Linares)
+Date: Sat Sep  1 02:38:02 2001
+Subject: [Harbour] Changelog 2001-09-01 08:35 GMT+1 Antonio Linares <alinares@fivetech.com>
+In-Reply-To: <000f01c132a1$77d425c0$0f2aa8c0@first>
+Message-ID: <000001c132b0$24125a60$0f2aa8c0@first>
+
+2001-09-01 08:35 GMT+1 Antonio Linares <alinares@fivetech.com>
+
+  + harbour/contrib/hgf/win32/make_b32.bat
+    batch file to invoke the
+    makefile for Harbour GUI framework Win32 using Borland C compiler
+
+  + harbour/contrib/hgf/win32/makefile.bc
+    makefile for Harbour GUI framework Win32 using Borland C compiler
+
+  * harbour/contrib/hgf/win32/win32.c
+  * harbour/contrib/hgf/win32/tform.prg
+  * harbour/contrib/hgf/win32/tmenu.prg
+  * harbour/contrib/hgf/win32/tmenuitm.prg
+    some minor fixes
+
+  + harbour/contrib/hgf/win32/tests/build_b32.bc
+    batch file to build Harbour GUI framework for Win32 tests
+
+  + harbour/contrib/hgf/win32/tests/testform.prg
+    Harbour GUI framework for Win32 TestForm.prg sample
+
+Antonio
+
+
+From harbour@matrixlist.com  Sat Sep  1 03:45:04 2001
+From: harbour@matrixlist.com (Antonio Linares)
+Date: Sat Sep  1 02:45:04 2001
+Subject: [Harbour] Harbour GUI framework for Win32
+In-Reply-To: <000001c132b0$24125a60$0f2aa8c0@first>
+Message-ID: <000101c132b1$115b97a0$0f2aa8c0@first>
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0002_01C132C1.D4E467A0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+Getting nicer :-)
+
+
+Antonio
+
+------=_NextPart_000_0002_01C132C1.D4E467A0
+Content-Type: image/jpeg;
+	name="form.jpg"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="form.jpg"
+
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEP
+ERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4e
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAEwAbIDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDqPjPq
+fwc+F19YW2rfCfw1drfITE1toVu5BVIy27LKBzIMY968/wD+F0fAL/ojOk/+E9a//Ha6z9p4A/HT
+4SgjIOsw/wDodlXVT+EtVlnklHxP8aRB2LbEeLauT0HHQV9DhsPl8cPTniNHJN7vo2uiZk3O7seU
+j4z/AADJA/4UzpP/AITtr/8AHacvxl+Ah6fBnSP/AAnbX/47WL+1jpd3pWieHYbnxNrOu+ZdTsH1
+EqWj+VBhdo6V3HgvwL4Muvi98HRcx+FkivPA9rPd6HNpzs+oyta3DNOwEJgc5wxaRw2Y+mdu7sWC
+y10faqLa97Zv7Kv2T/Azc6l7GGvxi+Ap/wCaNaP/AOE9a/8Ax2l/4XB8Bv8AojWj/wDhPWv/AMdr
+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
+CiiigAooooAKKKKACiiigAooooA/Ofx3/wAjvr3/AGErj/0a1FHjv/kd9e/7CVx/6NaigD9K/FH/
+ACGpP+uUX/otazK0/FH/ACGpP+uUX/otazKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooA/Ofx3/wAjvr3/AGErj/0a1FHjv/kd9e/7CVx/6NaigD9K/FH/ACGp
+P+uUX/otazK0/FH/ACGpP+uUX/otazKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooA/Ofx3/wAjvr3/AGErj/0a1FHjv/kd9e/7CVx/6NaigD9K/FH/ACGpP+uU
+X/otazK0/FH/ACGpP+uUX/otazKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooA/Ofx3/wAjvr3/AGErj/0a1FHjv/kd9e/7CVx/6NaigD9K/FH/ACGpP+uUX/ot
+azK0/FH/ACGpP+uUX/otazKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooA/Ofx3/wAjvr3/AGErj/0a1FHjv/kd9e/7CVx/6NaigD9K/FH/ACGpP+uUX/otazK0
+/FH/ACGpP+uUX/otazKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooA/Ofx3/wAjvr3/AGErj/0a1FHjv/kd9e/7CVx/6NaigD9K/FH/ACGpP+uUX/otazK0/FH/
+ACGpP+uUX/otazKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooA/Ofx3/wAjvr3/AGErj/0a1FHjv/kd9e/7CVx/6NaigD9K/FH/ACGpP+uUX/otazK0/FH/ACGp
+P+uUX/otazKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA/
+Ofx3/wAjvr3/AGErj/0a1FHjv/kd9e/7CVx/6NaigD9K/FH/ACGpP+uUX/otazK0/FH/ACGpP+uU
+X/otazKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA/Ofx3
+/wAjvr3/AGErj/0a1FHjv/kd9e/7CVx/6NaigD9K/FH/ACGpP+uUX/otazK0/FH/ACGpP+uUX/ot
+azKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA/Ofx3/wAj
+vr3/AGErj/0a1FHjv/kd9e/7CVx/6NaigD9K/FH/ACGpP+uUX/otazK0/FH/ACGpP+uUX/otazKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA/Ofx3/wAjvr3/
+AGErj/0a1FHjv/kd9e/7CVx/6NaigD9K/FH/ACGpP+uUX/otazK0/FH/ACGpP+uUX/otazKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA/Ofx3/wAjvr3/AGEr
+j/0a1FHjv/kd9e/7CVx/6NaigD9K/FH/ACGpP+uUX/otazK53xJ8WfhpLrEzReN9DkVVRNy3SkEq
+iqcEcEZB5HB7Vnf8LV+HH/Q6aN/4EigDs6K4z/havw4/6HTRv/AkUf8AC1fhx/0Omjf+BIoA7Oiu
+M/4Wr8OP+h00b/wJFH/C1fhx/wBDpo3/AIEigDs6K4z/AIWr8OP+h00b/wACRR/wtX4cf9Dpo3/g
+SKAOzorjP+Fq/Dj/AKHTRv8AwJFH/C1fhx/0Omjf+BIoA7OiuM/4Wr8OP+h00b/wJFH/AAtX4cf9
+Dpo3/gSKAOzorjP+Fq/Dj/odNG/8CRR/wtX4cf8AQ6aN/wCBIoA7OiuM/wCFq/Dj/odNG/8AAkUf
+8LV+HH/Q6aN/4EigDs6K4z/havw4/wCh00b/AMCRR/wtX4cf9Dpo3/gSKAOzorjP+Fq/Dj/odNG/
+8CRR/wALV+HH/Q6aN/4EigDs6K4z/havw4/6HTRv/AkUf8LV+HH/AEOmjf8AgSKAOzorjP8Ahavw
+4/6HTRv/AAJFH/C1fhx/0Omjf+BIoA7OiuM/4Wr8OP8AodNG/wDAkUf8LV+HH/Q6aN/4EigDs6K4
+z/havw4/6HTRv/AkUf8AC1fhx/0Omjf+BIoA7OiuM/4Wr8OP+h00b/wJFH/C1fhx/wBDpo3/AIEi
+gDs6K4z/AIWr8OP+h00b/wACRR/wtX4cf9Dpo3/gSKAOzorjP+Fq/Dj/AKHTRv8AwJFH/C1fhx/0
+Omjf+BIoA7OiuM/4Wr8OP+h00b/wJFH/AAtX4cf9Dpo3/gSKAOzorjP+Fq/Dj/odNG/8CRR/wtX4
+cf8AQ6aN/wCBIoA7OiuM/wCFq/Dj/odNG/8AAkUf8LV+HH/Q6aN/4EigDs6K4z/havw4/wCh00b/
+AMCRR/wtX4cf9Dpo3/gSKAOzorjP+Fq/Dj/odNG/8CRR/wALV+HH/Q6aN/4EigDs6K4z/havw4/6
+HTRv/AkUf8LV+HH/AEOmjf8AgSKAOzorjP8Ahavw4/6HTRv/AAJFH/C1fhx/0Omjf+BIoA7OiuM/
+4Wr8OP8AodNG/wDAkUf8LV+HH/Q6aN/4EigDs6K4z/havw4/6HTRv/AkUf8AC1fhx/0Omjf+BIoA
+7OiuM/4Wr8OP+h00b/wJFH/C1fhx/wBDpo3/AIEigD4a8d/8jvr3/YSuP/RrUVH4zmiuPGGtTwSp
+LFJqE7o6MGVlMjEEEdQR3ooA/9k=
+
+------=_NextPart_000_0002_01C132C1.D4E467A0--
+
+
+
+From harbour@matrixlist.com  Sat Sep  1 04:03:04 2001
+From: harbour@matrixlist.com (Antonio Linares)
+Date: Sat Sep  1 03:03:04 2001
+Subject: [Harbour] Changelog 2001-09-01 09:00 GMT+1 Antonio Linares <alinares@fivetech.com>
+In-Reply-To: <000001c132b0$24125a60$0f2aa8c0@first>
+Message-ID: <000601c132b3$964c4480$0f2aa8c0@first>
+
+2001-09-01 09:00 GMT+1 Antonio Linares <alinares@fivetech.com>
+  + harbour/contrib/hgf/win32/tests/form2.prg
+    Harbour Class TForm inheritance sample
+
+
+Antonio
+
+
+
+From harbour@matrixlist.com  Sat Sep  1 04:04:02 2001
+From: harbour@matrixlist.com (Dave Pearson)
+Date: Sat Sep  1 03:04:02 2001
+Subject: [Harbour] $id question
+In-Reply-To: <000f01c132a1$77d425c0$0f2aa8c0@first>; from alinares@fivetech.com on Sat, Sep 01, 2001 at 06:49:22AM +0200
+References: <200108311428.000001D4@Internet> <000f01c132a1$77d425c0$0f2aa8c0@first>
+Message-ID: <20010901073845.D1437@hagbard.davep.org>
+
+On Sat, Sep 01, 2001 at 06:49:22AM +0200, Antonio Linares wrote:
+
+> How to add the $id on the top of a file ?
+
+$Id$
+
+-- 
+Land of the free? Yeah, right.      |  Europe next?
+http://www.freesklyarov.org/        |  http://uk.eurorights.org/
+
+From harbour@matrixlist.com  Sat Sep  1 04:04:07 2001
+From: harbour@matrixlist.com (Dave Pearson)
+Date: Sat Sep  1 03:04:07 2001
+Subject: [Harbour] ChangeLog 2001-08-31 11:32 GMT+1
+In-Reply-To: <200108311326.000001D2@Internet>; from dholm@jsd-llc.com on Fri, Aug 31, 2001 at 01:26:38PM -0400
+References: <20010831085441.Q1437@hagbard.davep.org> <000501c13200$1b530920$0f2aa8c0@first> <20010831123549.R1437@hagbard.davep.org> <200108311234.000001CW@Internet> <20010831174653.A1437@hagbard.davep.org> <200108311326.000001D2@Internet>
+Message-ID: <20010901073754.C1437@hagbard.davep.org>
+
+On Fri, Aug 31, 2001 at 01:26:38PM -0400, David G. Holm wrote:
+> ** Reply to message from Dave Pearson <davep@davep.org> on Fri, 31 Aug
+> 2001 17:46:53 +0100
+> 
+> > So, if I'm following this correctly, a binary distribution of harbour (of
+> > OS/2 anyway) will ship with the VM as a library, with one of the entry
+> > points linked in, but will also ship with both entry points build as object
+> > files for the user to optionally link in ahead of VM library?
+> 
+> Yes.
+
+Right, cool, that works well then. So we just have to ensure that "make
+install" actually installs the various main*.{o,obj} files in into
+HB_LIB_INSTALL directory. Does the OS/2 side of things do that now? If not,
+will it?
+
+-- 
+Land of the free? Yeah, right.      |  Europe next?
+http://www.freesklyarov.org/        |  http://uk.eurorights.org/
+
+From harbour@matrixlist.com  Sat Sep  1 04:04:10 2001
+From: harbour@matrixlist.com (Dave Pearson)
+Date: Sat Sep  1 03:04:10 2001
+Subject: [Harbour] entry points
+In-Reply-To: <200108311325.000001D0@Internet>; from dholm@jsd-llc.com on Fri, Aug 31, 2001 at 01:25:45PM -0400
+References: <20010831160021.W1437@hagbard.davep.org> <000001c13236$18855aa0$0f2aa8c0@first> <20010831173825.Z1437@hagbard.davep.org> <200108311325.000001D0@Internet>
+Message-ID: <20010901073559.B1437@hagbard.davep.org>
+
+On Fri, Aug 31, 2001 at 01:25:45PM -0400, David G. Holm wrote:
+> ** Reply to message from Dave Pearson <davep@davep.org> on Fri, 31 Aug
+> 2001 17:38:25 +0100
+> 
+> > As I understand it (and this comes from my understanding being confirmed
+> > by other posters here), at the moment, the choice of entry point is a
+> > harbour build time decision. That is, you build harbour itself so that
+> > it's VM entry point targets a given environment (in the GNU/Linux case
+> > plain old terminal vs GTK+, lets add QT, LessTif and Tk in the mix for
+> > fun too).
+> 
+> That's not true for Harbour for OS/2. Regardless of how you build Harbour
+> for OS/2, the choice of PM vs. VIO is made when you link your Harbour
+> program, based upon whether or not your HB_GT_LIB environment variable is
+> set to os2pm.
+
+Right, excellent, this is the sort of thing I was looking for (someone else
+gave the impression that this wasn't the case). I take it that HB_GT_LIB is
+something that affects some special building script or something (one of
+those bld_* scripts perhaps?).
+
+Actually I do exactly the same thing, for the GT library, in `harbour-link'
+(the linking script that is part of the harbour RPM).
+
+[Don't answer this if you've answered it elsewhere] So is the idea to "ship"
+the different entry point object files, along with libraries, as part of a
+binary distribution?
+
+-- 
+Harbour is a free   | Harbour Web Site: http://www.harbour-project.org/
+software, cross     | Harbour FAQ.....: http://www.harbour-project.org/faq/
+platform, Clipper   | My Harbour Pages: http://www.davep.org/harbour/
+compatible compiler | Harbour News....: http://www.davep.org/harbour/news/
+
+From harbour@matrixlist.com  Sat Sep  1 04:09:02 2001
+From: harbour@matrixlist.com (Dave Pearson)
+Date: Sat Sep  1 03:09:02 2001
+Subject: [Harbour] Changelog 2001-09-01 08:35 GMT+1 Antonio Linares <alinares@fivetech.com>
+In-Reply-To: <000001c132b0$24125a60$0f2aa8c0@first>; from alinares@fivetech.com on Sat, Sep 01, 2001 at 08:34:23AM +0200
+References: <000f01c132a1$77d425c0$0f2aa8c0@first> <000001c132b0$24125a60$0f2aa8c0@first>
+Message-ID: <20010901080740.G1437@hagbard.davep.org>
+
+On Sat, Sep 01, 2001 at 08:34:23AM +0200, Antonio Linares wrote:
+> 2001-09-01 08:35 GMT+1 Antonio Linares <alinares@fivetech.com>
+> 
+>   + harbour/contrib/hgf/win32/tests/testform.prg
+>     Harbour GUI framework for Win32 TestForm.prg sample
+
+Wouldn't that be better off in contrib/hgf/tests or somewhere similar? That
+is, wouldn't it do better as a test for the HGF itself rather than a test of
+a particular implementation of the HGF?
+
+Also, have you and the other chaps writing all of this thought any more
+about the idea of defining the interfaces of the various classes in abstract
+classes that live about the platform specific level (I'm thinking that
+that's where the documentation would live too so it would seem to serve
+another useful purpose).
+
+-- 
+Land of the free? Yeah, right.      |  Europe next?
+http://www.freesklyarov.org/        |  http://uk.eurorights.org/
+
+From harbour@matrixlist.com  Sat Sep  1 04:09:06 2001
+From: harbour@matrixlist.com (Dave Pearson)
+Date: Sat Sep  1 03:09:06 2001
+Subject: [Harbour] Harbour GUI framework for Win32
+In-Reply-To: <000101c132b1$115b97a0$0f2aa8c0@first>; from alinares@fivetech.com on Sat, Sep 01, 2001 at 08:41:02AM +0200
+References: <000001c132b0$24125a60$0f2aa8c0@first> <000101c132b1$115b97a0$0f2aa8c0@first>
+Message-ID: <20010901080826.H1437@hagbard.davep.org>
+
+On Sat, Sep 01, 2001 at 08:41:02AM +0200, Antonio Linares wrote:
+
+> Getting nicer :-)
+
+Carry on like this and I *will* be able to re-write WEG in Clipper.
+
+-- 
+Dave Pearson                        |  OSLib - Timeslice release functions.
+http://www.davep.org/               |     eg - Norton Guide reader for Linux.
+http://www.davep.org/clipper/       |    weg - Norton Guide reader for Windows.
+http://www.davep.org/norton-guides/ | dgscan - DGROUP scanner for Clipper.
+
+From harbour@matrixlist.com  Sat Sep  1 04:18:02 2001
+From: harbour@matrixlist.com (Antonio Linares)
+Date: Sat Sep  1 03:18:02 2001
+Subject: [Harbour] Harbour GUI framework for Win32
+In-Reply-To: <20010901080826.H1437@hagbard.davep.org>
+Message-ID: <000701c132b5$b5211c80$0f2aa8c0@first>
+
+Dave,
+
+> Carry on like this and I *will* be able to re-write WEG in Clipper.
+
+in Harbour! :-)
+
+
+Antonio
+
+
+
+From harbour@matrixlist.com  Sat Sep  1 04:21:02 2001
+From: harbour@matrixlist.com (Maurilio Longo)
+Date: Sat Sep  1 03:21:02 2001
+Subject: [Harbour] Changelog 2001-09-01 08:35 GMT+1 Antonio Linares
+ <alinares@fivetech.com>
+References: <000f01c132a1$77d425c0$0f2aa8c0@first> <000001c132b0$24125a60$0f2aa8c0@first> <20010901080740.G1437@hagbard.davep.org>
+Message-ID: <3B908C2B.D45BC569@libero.it>
+
+Dave,
+
+I agree with you, tests should be multi-platform-
+
+Dave Pearson ha scritto:
+
+> On Sat, Sep 01, 2001 at 08:34:23AM +0200, Antonio Linares wrote:
+> > 2001-09-01 08:35 GMT+1 Antonio Linares <alinares@fivetech.com>
+> >
+> >   + harbour/contrib/hgf/win32/tests/testform.prg
+> >     Harbour GUI framework for Win32 TestForm.prg sample
+>
+> Wouldn't that be better off in contrib/hgf/tests or somewhere similar? That
+> is, wouldn't it do better as a test for the HGF itself rather than a test of
+> a particular implementation of the HGF?
+>
+> Also, have you and the other chaps writing all of this thought any more
+> about the idea of defining the interfaces of the various classes in abstract
+> classes that live about the platform specific level (I'm thinking that
+> that's where the documentation would live too so it would seem to serve
+> another useful purpose).
+>
+> --
+> Land of the free? Yeah, right.      |  Europe next?
+> http://www.freesklyarov.org/        |  http://uk.eurorights.org/
+> _______________________________________________
+> Harbour mailing list
+> Harbour@matrixlist.com
+> http://www.matrixlist.com/mailman/listinfo/harbour
+>
+> Thank you for participating in The Harbour Project.  Be sure to check
+> http://www.Harbour-Project.org
+
+--
+ __________
+|  |  | |__| md2520@mclink.it
+|_|_|_|____| Team OS/2 Italia
+
+
+
+From harbour@matrixlist.com  Sat Sep  1 04:24:01 2001
+From: harbour@matrixlist.com (Antonio Linares)
+Date: Sat Sep  1 03:24:01 2001
+Subject: [Harbour] Changelog 2001-09-01 08:35 GMT+1 Antonio Linares <alinares@fivetech.com>
+In-Reply-To: <20010901080740.G1437@hagbard.davep.org>
+Message-ID: <000801c132b6$88f24520$0f2aa8c0@first>
+
+Dave,
+
+> Wouldn't that be better off in contrib/hgf/tests or somewhere 
+> similar? 
+
+Yes, you are right. Though at this stage, we could keep
+them separate and later on, when they are fully compatible,
+then use only one tests directory.
+
+> Also, have you and the other chaps writing all of this thought any more
+> about the idea of defining the interfaces of the various classes 
+> in abstract
+> classes that live about the platform specific level (I'm thinking that
+> that's where the documentation would live too so it would seem to serve
+> another useful purpose).
+
+Not yet. I am just focused on the simplest
+foundation. A little later on we may start
+building the inheritance tree, moving methods
+on the inheritance tree, etc.
+
+Antonio
+
+
+From harbour@matrixlist.com  Sat Sep  1 04:26:01 2001
+From: harbour@matrixlist.com (Antonio Linares)
+Date: Sat Sep  1 03:26:01 2001
+Subject: [Harbour] Harbour GUI framework directories
+In-Reply-To: <3B908C2B.D45BC569@libero.it>
+Message-ID: <000901c132b6$d4604480$0f2aa8c0@first>
+
+Dave, Maurilio,
+
+> I agree with you, tests should be multi-platform-
+
+Ok,
+
+what directories structure do you propose ?
+
+
+Antonio
+
+
+
+From harbour@matrixlist.com  Sat Sep  1 04:30:05 2001
+From: harbour@matrixlist.com (Maurilio Longo)
+Date: Sat Sep  1 03:30:05 2001
+Subject: [Harbour] Harbour GUI framework directories
+References: <000901c132b6$d4604480$0f2aa8c0@first>
+Message-ID: <3B908E4C.83AADA5A@libero.it>
+
+Antonio,
+
+a single test subdir inside contrib\hgf where we put all test samples.
+
+regards
+
+
+Antonio Linares ha scritto:
+
+> Dave, Maurilio,
+>
+> > I agree with you, tests should be multi-platform-
+>
+> Ok,
+>
+> what directories structure do you propose ?
+>
+> Antonio
+>
+> _______________________________________________
+> Harbour mailing list
+> Harbour@matrixlist.com
+> http://www.matrixlist.com/mailman/listinfo/harbour
+>
+> Thank you for participating in The Harbour Project.  Be sure to check
+> http://www.Harbour-Project.org
+
+--
+ __________
+|  |  | |__| md2520@mclink.it
+|_|_|_|____| Team OS/2 Italia
+
+
+
+From harbour@matrixlist.com  Sat Sep  1 04:35:06 2001
+From: harbour@matrixlist.com (Antonio Linares)
+Date: Sat Sep  1 03:35:06 2001
+Subject: [Harbour] Harbour GUI framework directories
+In-Reply-To: <3B908E4C.83AADA5A@libero.it>
+Message-ID: <000a01c132b8$06ac2200$0f2aa8c0@first>
+
+Maurilio,
+
+> a single test subdir inside contrib\hgf where we put all test samples.
+
+Ok, I do it.
+
+Antonio
+
+
+From harbour@matrixlist.com  Sat Sep  1 05:39:02 2001
+From: harbour@matrixlist.com (Patrick Mast, Harbour)
+Date: Sat Sep  1 04:39:02 2001
+Subject: [Harbour] Harbour GUI framework directories
+In-Reply-To: <000901c132b6$d4604480$0f2aa8c0@first>
+Message-ID: <001b01c132c1$67a29630$6400a8c0@patrick2>
+
+Antonio, Dave, Maurilio,
+ 
+Isn't it time to move the GUI Framework from conrtib dir to Harbour
+source dir?
+
+Regards,
+
+Patrick Mast
+www.Patrick.Be.kz (By Bekz.net)
+
+
+From harbour@matrixlist.com  Sat Sep  1 05:50:04 2001
+From: harbour@matrixlist.com (Maurilio Longo)
+Date: Sat Sep  1 04:50:04 2001
+Subject: [Harbour] Harbour GUI framework directories
+References: <001b01c132c1$67a29630$6400a8c0@patrick2>
+Message-ID: <3B90A039.5DCFA01F@libero.it>
+
+No :-)
+
+first it has to work (yes now it works but you can't do anything with
+it).
+
+regards.
+
+"Patrick Mast, Harbour" ha scritto:
+
+> Antonio, Dave, Maurilio,
+>
+> Isn't it time to move the GUI Framework from conrtib dir to Harbour
+> source dir?
+>
+> Regards,
+>
+> Patrick Mast
+> www.Patrick.Be.kz (By Bekz.net)
+>
+> _______________________________________________
+> Harbour mailing list
+> Harbour@matrixlist.com
+> http://www.matrixlist.com/mailman/listinfo/harbour
+>
+> Thank you for participating in The Harbour Project.  Be sure to check
+> http://www.Harbour-Project.org
+
+--
+ __________
+|  |  | |__| md2520@mclink.it
+|_|_|_|____| Team OS/2 Italia
+
+
+
